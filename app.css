@@ -1,0 +1,10 @@
+h3:hover {
+    background-color: cyan;
+    color: white;
+}
+
+
+button:active {
+    background-color: green;
+    color: white;
+}
